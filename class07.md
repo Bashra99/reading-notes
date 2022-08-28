@@ -15,7 +15,7 @@ It fetchs the data and bring it to the web page to display the content.
 
 **What does a POST do?**
 
-it holds our data and pass it to the API/server for example and asks it to store it.
+it holds the data and pass it to the API/server for example and asks it to store it.
 
 **What does PUT do?**
 
