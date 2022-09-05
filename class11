@@ -3,12 +3,12 @@
 # MongoDB
 
 >Fill in the chart below with five differences between SQL and NoSQL databases:
+
 1) SQL databases are relational, NoSQL databases are non-relational.
 2) SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.
 3) SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
 4) SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores.
 5) SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
-
 
 >What kind of data is a good fit for an SQL database?
 Organise and unique data
@@ -19,7 +19,7 @@ Replication: By replicating MySQL database across multiple nodes the work load c
 >What kind of data is a good fit a NoSQL database?
 to store big data.
 
->Give a real world example. 
+>Give a real world example.
 A place to store the E-commerce ads.
 
 >*Which type of database is best for hierarchical data storage?**
