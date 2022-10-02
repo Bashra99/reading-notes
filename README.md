@@ -10,6 +10,8 @@
 
 ## **Code 401 - Advanced Software Development**
 
+- [Class 01: Big O Notation](./code-401-python/class-1/REAdME.md)
+
 
 
 
