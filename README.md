@@ -16,10 +16,13 @@
 - [Class 01: Big O Notation](./code-401-python/class-1/REAdME.md)
 - [Class 02:Testing and Modules](./code-401-python/class-2/README.md)
 
+- [Class 03: Whiteboarding + Big O](./code-401-python/class-3/README.MD)
 
 
+- [Class 04:File IO and Exceptions](./code-401-python/class-4/README.MD)
 
 
+- [Class 05:Intro to OOP](./code-401-python/class-5/README.MD)
 
 
 
