@@ -24,7 +24,7 @@
 
 - [Class 05:Intro to OOP](./code-401-python/class-5/README.md)
 
-- [Class 05: OOP Part02](./code-401-python/class-6/README.md)
+- [Class 06: OOP Part02](./code-401-python/class-6/README.md)
 
 
 
