@@ -26,5 +26,8 @@
 
 - [Class 06: OOP Part02](./code-401-python/class-6/README.md)
 
+- [Class 07: Data Analysis](./code-401-python/class-7/README.md)
+
+
 
 
