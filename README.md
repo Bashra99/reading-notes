@@ -15,19 +15,11 @@
 
 - [Class 01: Big O Notation](./code-401-python/class-1/REAdME.md)
 - [Class 02:Testing and Modules](./code-401-python/class-2/README.md)
-
 - [Class 03: Whiteboarding + Big O](./code-401-python/class-3/README.md)
-
-
 - [Class 04:File IO and Exceptions](./code-401-python/class-4/README.md)
-
-
 - [Class 05:Intro to OOP](./code-401-python/class-5/README.md)
-
 - [Class 06: OOP Part02](./code-401-python/class-6/README.md)
-
 - [Class 07: Data Analysis](./code-401-python/class-7/README.md)
-
-
-
+- [Class 08: Data Analysis with Pandas](./code-401-python/class-8/README.md)
+- [Class 09: LinkedList](./code-401-python/class-9/README.md)
 
