@@ -1,15 +1,10 @@
 # pandas
 
-## [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
-
-[CookBooks](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#cookbook)
-
 ## Object creation
 
-[Data Structure Intro section](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dsintro)
 
 
-Creating a [Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html#pandas.Series) by passing a list of values, letting pandas create a default integer index:
+Creating a `Series` by passing a list of values, letting pandas create a default integer index:
 
 ```
 In [3]: s = pd.Series([1, 3, 5, np.nan, 6, 8])
@@ -24,7 +19,7 @@ Out[4]:
 dtype: float64
 ```
 
-Creating a [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame) by passing a NumPy array, with a datetime index and labeled columns:
+Creating a `DataFrame` by passing a NumPy array, with a datetime index and labeled columns:
 
 ```
 In [5]: dates = pd.date_range("20130101", periods=6)
@@ -101,3 +96,10 @@ Out[8]:
   * **Applying** a function to each group independently
 
   * **Combining** the results into a data structure
+
+## References
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html#pandas.Series
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html#cookbook
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#dsintro
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame
