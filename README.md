@@ -24,3 +24,5 @@
 - [Class 09: LinkedList](./code-401-python/class-9/README.md)
 - [Class 10: Linear Regressions](./code-401-python/class-10/README.md)
 - [Class 11: Data Visualization](./code-401-python/class-11/README.md)
+- [Class 12: Stacks and Queues](./code-401-python/class-12/README.md)
+
