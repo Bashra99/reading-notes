@@ -1,4 +1,4 @@
-# Reading 31: Django REST Framework & Docker
+# Django REST Framework & Docker
 
 ## [Beginner’s Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
 

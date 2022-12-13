@@ -35,8 +35,8 @@
 - [Class 22: Django CRUD and Forms](./code-401-python/class-22/README.md)
 - [Class 23: Django Custom User](./code-401-python/class-23/)
 - [Class 24: Hash Table](./code-401-python/class-24/README.md)
-
 - [Class 25: Django REST Framework & Docker](./code-401-python/class-25/README.md)
+- [Class 26:Permissions & Postgresql](./code-401-python/class-26/README.md)
 
 
 
