@@ -14,10 +14,10 @@
 ## **Code 401 - Advanced Software Development**
 
 - [Class 01: Big O Notation](./code-401-python/class-1/REAdME.md)
-- [Class 02:Testing and Modules](./code-401-python/class-2/README.md)
+- [Class 02: Testing and Modules](./code-401-python/class-2/README.md)
 - [Class 03: Whiteboarding + Big O](./code-401-python/class-3/README.md)
-- [Class 04:File IO and Exceptions](./code-401-python/class-4/README.md)
-- [Class 05:Intro to OOP](./code-401-python/class-5/README.md)
+- [Class 04: File IO and Exceptions](./code-401-python/class-4/README.md)
+- [Class 05: Intro to OOP](./code-401-python/class-5/README.md)
 - [Class 06: OOP Part02](./code-401-python/class-6/README.md)
 - [Class 07: Data Analysis](./code-401-python/class-7/README.md)
 - [Class 08: Data Analysis with Pandas](./code-401-python/class-8/README.md)
@@ -36,11 +36,14 @@
 - [Class 23: Django Custom User](./code-401-python/class-23/)
 - [Class 24: Hash Table](./code-401-python/class-24/README.md)
 - [Class 25: Django REST Framework & Docker](./code-401-python/class-25/README.md)
-- [Class 26:Permissions & Postgresql](./code-401-python/class-26/README.md)
-- [Class 27:Graphs](./code-401-python/class-27/README.md)
+- [Class 26: Permissions & Postgresql](./code-401-python/class-26/README.md)
+- [Class 27: Graphs](./code-401-python/class-27/README.md)
 - [Class 28: Authentication & Production Server](./code-401-python/class-28/README.md)
-- [Class 29:  API Deployment](./code-401-python/class-29/README.md)
-- [Class 30:   React Review](./code-401-python/class-30/README.md)
+- [Class 29: API Deployment](./code-401-python/class-29/README.md)
+- [Class 30: React Review](./code-401-python/class-30/README.md)
+- [Class 31: Intro to Next.js & Tailwind CSS](./code-401-python/class-31/README.md)
+
+
 
 
 
