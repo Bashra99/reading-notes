@@ -44,6 +44,7 @@
 - [Class 31: Intro to Next.js & Tailwind CSS](./code-401-python/class-31/README.md)
 - [Class 32:Next- Forms and Conditional Rendering ](./code-401-python/class-32/README.md)
 - [Class 33: Context API](./code-401-python/class-33/README.md)
+- [Class 34: Authentication](./code-401-python/class-34/README.md)
 
 
 
